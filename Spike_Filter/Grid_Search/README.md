@@ -1,5 +1,5 @@
 # Spike Filter Grid Search
-*Code used for pre-processing filters in roboBayes pipeline*
+*Code used for developing pre-processing filters in roboBayes pipeline*
 
 This repository contains functions used for running a grid search for spike filter parameters.  The grid search is 
 completed using training data that was generated via visual interpretation of remotely sensed time series.  The 
