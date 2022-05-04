@@ -1,3 +1,13 @@
+#*******************************************************************************
+# Project: roboBayes - Spike Filters
+# Script Purpose: Spike Filter functions for both a moving window (central spike
+# filter) and a lagging spike filter (recursive spike filter)
+# Date: 2022-02-12
+# Author: Jenna Abrahamson
+#*******************************************************************************
+# Load necessary libraries
+library(data.table)
+
 #***********************************
 # Moving window spike filter (center point) - spike_center()
 #***********************************
