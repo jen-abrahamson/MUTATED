@@ -1,3 +1,11 @@
+#*******************************************************************************
+# Project: roboBayes - Generalized, Rule-Basd Parameter Filter
+# Script Purpose: Filter for areas of heavy construction based on time 
+# time series harmonic model parameters
+# Date: 2022-03-20
+# Author: Jenna Abrahamson
+#*******************************************************************************
+
 #' CalcAmp - calculate amplitude of fitted model
 #' 
 #'@description
