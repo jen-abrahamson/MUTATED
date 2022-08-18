@@ -1,5 +1,5 @@
 # MUTATED
-Code snippets developed as a part of the Modeling and Understanding Using Temporal Analysis of Transient Earth Data (MUTATED) research team.  This research was funded by IARPA as a part of the Space-Based Machine Automated Recognition Technique (SMART) Program.
+Code snippets developed as a part of the Modeling and Understanding Using Temporal Analysis of Transient Earth Data (MUTATED) research project.  This research was funded by IARPA as a part of the Space-Based Machine Automated Recognition Technique (SMART) Program.
 
 ## Filters
 Code developed for classification of "heavy construction" per SMART's goals as determined by IARPA.  This contains heuristic parameter filters I developed for targeted classification of construction change sites.
