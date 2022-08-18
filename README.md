@@ -1,8 +1,8 @@
 # MUTATED
-Code developed for MUTATED research assistantship
+Code snippets developed as a part of the Modeling and Understanding Using Temporal Analysis of Transient Earth Data (MUTATED) research team.  This research was funded by IARPA as a part of the Space-Based Machine Automated Recognition Technique (SMART) Program.
 
 ## Filters
-Code developed for classification of "heavy construction" per SMART's goals as determined by IARPA.  This contains parameter filters targeted at classification of change sites.
+Code developed for classification of "heavy construction" per SMART's goals as determined by IARPA.  This contains heuristic parameter filters I developed for targeted classification of construction change sites.
 
 ## Spike_Filter
 Code developed for outlier detection in removal in remote sensing time series.  Able to be used in an online monitoring application, this code contains two different options for spike filters:
