@@ -6,3 +6,6 @@ I was responsbile for developing several different filters and modules related t
   
 *The above figure shows the relative change magnitudes for before and after detected changes in key spectral features.*
 </p>
+
+## heuristic_filter.R
+This script contains functions for performing heuristic filtering of detected change results. This is done as a post-processing step and relies on roboBayes model coefficients and a series of user defined thresholds.
