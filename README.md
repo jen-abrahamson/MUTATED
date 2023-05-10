@@ -3,7 +3,7 @@
 <img width="470" height="200" src="https://github.com/jen-abrahamson/MUTATED/assets/86742376/4f00efb1-50b0-4b2a-a15b-e05f5770b49a">
 </p>
 
-Code snippets developed as a part of the Modeling and Understanding Using Temporal Analysis of Transient Earth Data (MUTATED) research project.  This research was funded by IARPA as a part of the Space-Based Machine Automated Recognition Technique (SMART) Program.
+Code snippets developed as a part of the *Modeling and Understanding Using Temporal Analysis of Transient Earth Data (MUTATED)* research project.  This research was funded by IARPA as a part of the Space-Based Machine Automated Recognition Technique (SMART) Program.
 
 Many of these code examples build on and work off of the Roboust Online Bayesian Monitoring (roboBayes) algorithm developed by [Wendelberger et al., 2021](https://arxiv.org/abs/2112.12899?context=stat). Some parts of the pipeline code and input data/results are intentionally omitted in this repository due to intellectual property of Accenture Federal Services/IARPA.
 
