@@ -1,4 +1,4 @@
 # Clustering
 <p align="center">
-  <img width="700" height="400" src="https://github.com/jen-abrahamson/MUTATED/assets/86742376/fb5a92b3-0170-49ad-a013-54c97c40f15c">
+  <img width="700" height="450" src="https://github.com/jen-abrahamson/MUTATED/assets/86742376/d092e846-2b7c-496a-a92c-a8f2eaf9568b">
 </p>
