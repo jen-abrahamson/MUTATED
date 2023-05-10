@@ -3,6 +3,10 @@ Code snippets developed as a part of the Modeling and Understanding Using Tempor
 
 Many of these code examples build on and work off of the Roboust Online Bayesian Monitoring (roboBayes) algorithm developed by [Wendelberger et al., 2021](https://arxiv.org/abs/2112.12899?context=stat). Some parts of the pipeline code and input data/results are intentionally omitted in this repository due to intellectual property of Accenture Federal Services/IARPA.
 
+<p align="center">
+<img width="460" height="300" src="https://www.iarpa.gov/images/research-programs/300x200/SMART_300x200px-01-01.png">
+</p>
+
 ## Characterization
 Code developed for classification of "heavy construction" per SMART's goals as determined by IARPA.  This contains:
 * **1. Heuristic Filters** - Classifies and filters areas of heavy construction based on clustering results and using roboBayes model coefficients.
