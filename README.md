@@ -14,7 +14,7 @@ Code developed for classification of "heavy construction" per SMART's goals as d
 
 ## Outliers
 Code developed for outlier detection in removal in remote sensing time series.  Able to be used in an online monitoring application, this code contains two different options for spike filters:
-* **1. Central Moving Window Spike Filter** - Flags spikes based on a set threshold (number of standard deviations away from mean/median) compared to values before **and** after the observation as determined by the user-specified window.
+* **1. Central Moving Window Spike Filter** - Flags spikes based on a set threshold (number of standard deviations away from mean/median) compared to values before **and** after the observation as determined by the user-specified window. Implementation based on spike filter developed by [Isabella Hinks](https://www.isabellahinks.com/).
 * **2. Lagging Window Spike Filter** - Flags spikes based on a set threshold (number of standard deviations away from mean/median) compared to values **before** the observation as determined by the user-specified window.
 
 Also contains an example of a grid search run to determine best spike filter parameters for filtering outliers out of different spectral signals including Linear Spectral Mixing Analysis (LSMA).
