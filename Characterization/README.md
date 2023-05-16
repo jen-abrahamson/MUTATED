@@ -31,3 +31,8 @@ These scripts contain code to filter results based on a spatial and temporal mov
 ### build_features.R, get_results.R, train_RF.R, train_XG.R 
 These scripts contain code to train, run, and use both Random Forest and XGBoost as a machine learning filter for characterizing heavy construction as an additional module of roboBayes.
 
+<p align="center">
+  <img width="800" height="450" src="https://github.com/jen-abrahamson/MUTATED/assets/86742376/ab40347e-018f-412c-8f81-fbfbf2529c80">
+  
+*The above figure shows the methodology for employing the tree-based filter.*
+</p>
