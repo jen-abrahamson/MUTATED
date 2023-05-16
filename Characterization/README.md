@@ -17,7 +17,7 @@ This script contains functions for performing heuristic filtering of detected ch
 *The above figure shows results before and after heuristic-based filtering.*
 </p>
 
-## Filtering by Temporal Distance
+## Filtering via Spatiotemporal Clustering
 ### temporal_filter.R, st-dbscan.R
 These scripts contain code to filter results based on a spatial and temporal moving window. Only results within a set spatial and temporal distance will be kept.
 
