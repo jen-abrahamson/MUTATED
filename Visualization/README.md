@@ -27,7 +27,7 @@ corresponding harmonic time series models identified by roboBayes over the origi
 Jupyter notebook for using python to create shreable html visualizations of roboBayes results to share with collaboraters and program managers.
 
 <p align="center">
-  <img width="700" height="550" src="https://github.com/jen-abrahamson/MUTATED/assets/86742376/a7f4a577-d69f-4c7e-87f8-cb42c1bb4fb3">
+  <img width="700" height="400" src="https://github.com/jen-abrahamson/MUTATED/assets/86742376/dd47e2ec-4a25-46bb-ae48-a231edfc9cd7">
   
   *Example of what the html visualizations look like.*
 </p>
