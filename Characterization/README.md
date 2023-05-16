@@ -9,8 +9,13 @@ I was responsbile for developing several different filters and modules related t
 
 ## Filtering by Heuristics
 ### heuristic_filter.R
-This script contains functions for performing heuristic filtering of detected change results. This is done as a post-processing step and relies on roboBayes model coefficients and a series of user defined thresholds.
+This script contains functions for performing heuristic filtering of detected change results. This is done as a post-processing step and relies on roboBayes model coefficients and a series of user defined thresholds. Results using this filter are shown below.
 
+<p align="center">
+  <img width="1000" height="350" src="https://github.com/jen-abrahamson/MUTATED/assets/86742376/27efb250-1207-42dc-8815-8ded6b4474ec">
+  
+*The above figure shows results before and after heuristic-based filtering.*
+</p>
 
 ## Filtering by Temporal Distance
 ### temporal_filter.R, st-dbscan.R
